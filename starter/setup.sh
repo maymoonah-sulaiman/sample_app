@@ -1,0 +1,1 @@
+DATABASE_URL=postgresql://postgres:DGJ#%&@localhost:5432/sample
